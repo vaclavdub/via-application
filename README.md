@@ -6,4 +6,4 @@ Z tohoto důvodu vytvořím aplikaci, která bude zobrazovat bezlepkové restaur
 
 
 I am celiac and even today it is not easy to find a gluten-free restaurant, gluten-free shop and gluten-free bakery around.
-For this reason, I create an app that will display the gluten-free restaurants, gliten-free shops and gluten-free bakeries nearby.
+For this reason, I create an app that will display the gluten-free restaurants, gluten-free shops and gluten-free bakeries nearby.
