@@ -1,7 +1,6 @@
 import json
 import requests
 
-
 def getRequest(term, location):
     terms = "term=" + term
     locations = "location=" + location
@@ -32,7 +31,6 @@ def getRequest(term, location):
         novePole.append(objekt)
 
     return results
-
 
 if __name__ == '__main__':  # Main method
     terms = "gluten-free"
