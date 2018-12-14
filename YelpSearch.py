@@ -5,7 +5,7 @@ def getRequest(term, location):
     terms = "term=" + term
     locations = "location=" + location
     url = "https://api.yelp.com/v3/businesses/search?" + terms + "&" + locations
-    api_key = "U8Y3ZTZht443oRyRcr5k6kwXhAJiVENziO1weyRZjUPuSzrgAcovrszf5hXtdTRY303DrfJtydbzmcYPjxriM_jJBlNIIZrcDIDQx0LDS2OP0GOmN7mzBo2w2S4JXHYx"
+    api_key = "key"
     headers = {
         'Authorization': 'Bearer %s' % api_key,
     }
